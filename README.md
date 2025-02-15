@@ -23,7 +23,9 @@
 - Image Segmentation
 - Object Detection
 
-## Day 1 Tentative (may change) 
+## Tentative (may change) 
+
+### Day 1
 
 | Time    | Activity |
 | -------- | ------- |
@@ -36,7 +38,7 @@
 | 3:00PM - 3:10PM | Break |
 | 3:10PM - 5:00PM | Lecture |
 
-## Rest of the days
+### Rest of the days
 
 | Time    | Activity |
 | -------- | ------- |
