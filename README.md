@@ -1,4 +1,6 @@
-# KAUST Academy Advanced Artificial Intelligence Programn 2025
+# KAUST Academy Advanced Artificial Intelligence Programn 2025 (Unofficial)
+
+> Official GitHub repository: [Click here!](https://github.com/KAUST-Academy/KA-Advanced-Ai-2025)
 
 ## Instructor
 
