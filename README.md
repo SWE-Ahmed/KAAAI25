@@ -1,5 +1,8 @@
 # KAUST Academy Advanced Artificial Intelligence Programn 2025 (Unofficial)
 
+## EXAM LINK
+[Click Here](https://naeemullah-khan.github.io/KAExams/ExamKAAAI25)
+
 > Official GitHub repository: [Click here!](https://github.com/KAUST-Academy/KA-Advanced-Ai-2025)
 
 ## Instructor
